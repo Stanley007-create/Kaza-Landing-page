@@ -1,2 +1,2 @@
 # Kaza Landing Page
-A simple landing page built for our community project.
+A simple landing page for our community project built for kaza
